@@ -1,1 +1,4 @@
-Latihan C++
+# Latihan C++
+C++ dasar
+
+Sedikit case study
